@@ -27,6 +27,13 @@ This project explores the use of **Deep Convolutional Generative Adversarial Net
   - Produces more detailed and high-fidelity Pokémon samples.
   - Built to improve quality and diversity beyond DCGAN.
 
+## 📽️ Demo
+
+Watch the demo of our Pokémon Generator in action:
+
+[Watch Demo](https://drive.google.com/file/d/15OxVnpBzw2n6jnhk2Kr9ZHxMkSVGfIOD/view?usp=sharing)
+
+
 
 
 
