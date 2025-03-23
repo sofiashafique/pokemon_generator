@@ -8,10 +8,10 @@ This project explores the use of **Deep Convolutional Generative Adversarial Net
 ## ✨ Results
 
 ### DCGAN Generated Samples  
-![DCGAN](results/dcgan_samples/fakes000080.jpg)
+![DCGAN](results/dcGAN_pokemon_generated.jpg)
 
 ### StyleGAN Enhanced Output  
-![StyleGAN](results/stylegan_samples/stylegan_output.jpeg)
+![StyleGAN](results/stylegan_pokemonGenerated.jpg)
 
 ---
 
